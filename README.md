@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Nguyễn Hoài Mẫn. I am third-year student at University of Science - VNU.
 
-## 🌐Socials
+## 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013013614081) 
 <h3  align="left">Connect with me:</h3>
-<p align="left"><a  href="https://www.facebook.com/hoan.nguyenhuy.ITUS/"  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.linkedin.com/in/huyhoan652002/"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
- <a  href="https://www.youtube.com/channel/UCf4aukyZIRysZ_-fpba8CJg"  target="blank"><img src="https://img.icons8.com/bubbles/64/youtube-squared.png"/>
+<p align="left"><a  href="https://facebook.com/https://www.facebook.com/profile.php?id=100013013614081"  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="            /"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
+ <a  href="     "  target="blank"><img src="https://img.icons8.com/bubbles/64/youtube-squared.png"/>
 </p>
 
 # 💻Tech Stack
