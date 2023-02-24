@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 👋 Hi, I’m Nguyễn Hoài Mẫn. I am third-year student at University of Science - VNU.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013013614081) 
