@@ -1,4 +1,4 @@
-[](https://visitcount.itsvg.in/api?id=Mannotcold&icon=0&color=0)](https://visitcount.itsvg.in)
+[[](https://visitcount.itsvg.in/api?id=Mannotcold&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ### 👋 Hi, I’m Nguyễn Hoài Mẫn. I am third-year student at University of Science - VNU.
 
