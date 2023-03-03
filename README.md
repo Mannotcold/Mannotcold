@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Mannotcold&icon=0&color=0)](https://visitcount.itsvg.in)
-[(https://visitcount.itsvg.in/api?id=Mannotcold&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannotcold&label=Profile%20views&color=0e75b6&style=flat" alt="mannotcold" /> </p>
 ---
 ### 👋 Hi, I’m Nguyễn Hoài Mẫn. I am third-year student at University of Science - VNU.
 
@@ -21,5 +20,3 @@
 
 
 ![Snake animation](https://github.com/Mannotcold/Mannotcold/blob/output/github-contribution-grid-snake.svg)
-
-
